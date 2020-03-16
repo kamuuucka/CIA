@@ -22,5 +22,5 @@
 </html>
 
 <?php
-include mod_menu.php;
-include mod_carousel.php;
+include 'mod_menu.php';
+include 'mod_carousel.php';
