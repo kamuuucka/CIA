@@ -1,0 +1,3 @@
+SELECT * FROM zawodnik WHERE age > 18;
+SELECT * FROM zawodnik WHERE age >= 18 AND age <=35;
+SELECT * FROM zawodnik WHERE age < 18 ORDER BY Name DESC; 
